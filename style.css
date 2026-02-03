@@ -2044,9 +2044,6 @@ body.dark-mode .img-dark {
     grid-template-columns: 1fr;
   }
 
-  .layer-top img {
-    height: 160px;
-  }
 }
 
 
@@ -2089,5 +2086,6 @@ body.dark-mode .img-dark {
     transition-duration: 0.6s;
   }
 }
+
 
 
